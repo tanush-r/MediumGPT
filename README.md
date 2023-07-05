@@ -7,15 +7,15 @@ Only Python! (Minimum 3.9) with pip
 ## Installation
 Follow these steps:
 * Virtual Environment
-'''sh
+```sh
 python3 -m venv venv
 source venv/bin/activate
-'''
+```
 * Install Requirements
-'''sh
+```sh
 pip install -r requirements.txt
-'''
+```
 * Run the Streamlit server
-'''sh
+```sh
 streamlit run app.py
-'''
+```
